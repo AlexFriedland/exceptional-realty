@@ -7,5 +7,5 @@ This is an example site for the Intro to Front-end Web Development course at Fla
 
 # Contact 
 
-email: alex@yourmomsemail.com
+email: friedlandaj@gmail.com
 
